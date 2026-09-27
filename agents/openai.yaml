@@ -1,0 +1,3 @@
+interface:
+  display_name: "YouTube Comment Analyzer"
+  short_description: "Turn YouTube comments into evidence-backed video ideas"
