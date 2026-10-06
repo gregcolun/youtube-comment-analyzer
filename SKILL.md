@@ -42,7 +42,7 @@ For each leading opportunity, produce up to five distinct title candidates. Rese
 
 ## 5. Produce a concise interactive visual report
 
-When file creation is available, create a standalone HTML page by default. The page is the main deliverable; keep the chat response to a brief summary and a link.
+When file creation is available, create a standalone HTML page by default. The page is the main deliverable. In chat, reply with one line that begins exactly `Here is the comment report:` and links to the generated report, for example: `Here is the comment report: [Open the report](/absolute/path/to/report.html)`. Do not add a summary, preamble, or sign-off. If HTML creation is unavailable or the user requests text only, begin with the same exact phrase and provide the concise report after the colon.
 
 Design and interaction requirements:
 
